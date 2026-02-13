@@ -197,5 +197,6 @@ app.Map("/ws/teacher-audio", async (HttpContext context) =>
     Console.WriteLine($"📴 Teacher session ended room='{roomId}'");
 }).DisableAntiforgery();
 
-
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+app.Urls.Add($"http://0.0.0.0:{port}");
 app.Run();
