@@ -1,0 +1,6 @@
+@VoiceTranslateMvp_HostAddress = http://localhost:5124
+
+GET {{VoiceTranslateMvp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceTranslateMvp", "VoiceTranslateMvp.csproj", "{2EDE6953-11A8-87E9-7E26-B4B62C0EFE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EDE6953-11A8-87E9-7E26-B4B62C0EFE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDE6953-11A8-87E9-7E26-B4B62C0EFE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDE6953-11A8-87E9-7E26-B4B62C0EFE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDE6953-11A8-87E9-7E26-B4B62C0EFE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90BA817A-7DC4-46F6-A501-DCE15BA46039}
+	EndGlobalSection
+EndGlobal
